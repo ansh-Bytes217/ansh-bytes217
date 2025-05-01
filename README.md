@@ -1,6 +1,6 @@
  # Hi, I am Ansh
 
-I'm a passionate  Software Developer and community contributor currently in my 2nd year of engineering. I'm building a strong portfolio to land top-tier internships and contribute to impactful open-source and startup projects.
+I'm a passionate Full stack Developer and community contributor currently in my 2nd year of engineering. I'm building a strong portfolio to land top-tier internships and contribute to impactful open-source and startup projects.
 
 ---
 
